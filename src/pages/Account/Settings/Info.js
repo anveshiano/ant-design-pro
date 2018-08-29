@@ -4,7 +4,7 @@ import router from 'umi/router';
 import { FormattedMessage } from 'umi/locale';
 import { Menu } from 'antd';
 import styles from './Info.less';
-import GridContent from '@/layouts/GridContent';
+import GridContent from '@/components/PageHeaderWrapper/GridContent';
 
 const { Item } = Menu;
 
